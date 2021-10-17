@@ -3,7 +3,6 @@ import os, sys
 import time
 import multiprocessing, random
 
-print("Welcome To Layer 7 DDoS")
 print("""
 \u001b[31m
 >> CODE BY DarkMatter REMAKE BY AKINA404
